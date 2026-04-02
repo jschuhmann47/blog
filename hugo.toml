@@ -19,3 +19,7 @@ languageCode = "en-us"
   [author]
   name = "Juani S"
   email = "a@a.com"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
