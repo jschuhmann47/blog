@@ -1,5 +1,5 @@
 title = "jschuhmann47's blog"
-baseURL = "https://example.org"
+baseURL = "https://jschuhmann47.github.io/blog/"
 languageCode = "en-us"
 
 [params]
